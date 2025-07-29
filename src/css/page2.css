@@ -1,0 +1,15 @@
+.main1{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: aqua;
+   
+
+}
+.link1{
+    text-align: right;
+    background: burlywood;
+}
+#text{
+    text-decoration: underline;
+    text-decoration-color: beige;
+}
